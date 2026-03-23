@@ -37,5 +37,4 @@ Tengo experiencia especial trabajando con plataformas de salud , sistemas de ges
 
 ---
 
-### 📫 ¿Cómo contactarme?
-mail:arnold215704@gmail.com
+### 📫 ¿Cómo contactarme? arnold215704@gmail.com
