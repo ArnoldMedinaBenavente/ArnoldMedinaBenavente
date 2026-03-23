@@ -7,18 +7,17 @@ Tengo experiencia especial trabajando con plataformas de salud , sistemas de ges
 ### 🛠️ Tecnologías y Herramientas
 
 **Backend:**
-* **PHP & Laravel:** Desarrollo de APIs, Eloquent ORM, Blade, Scheduled Tasks (Cron Jobs), y manejo avanzado de fechas con Carbon.
+* **PHP & Laravel:** Desarrollo de APIs, Eloquent ORM, Blade, Scheduled Tasks (Cron Jobs).
 * Java (Android Studio)
 * **Base de Datos:** MySQL / MariaDB (Diseño relacional, optimización de consultas).
 
 **Frontend:**
 * **JavaScript:** AngularJS.
-* 
 * **Diseño/Maquetación:** HTML5, CSS3, Bootstrap >= 3.
-* 
+
 **Servidores:**
 * Ubuntu  >= 18.04 **
-**Integraciones & APIs:**
+* **Integraciones & APIs:**
 * **Twilio / WhatsApp Business API:** Creación de plantillas (Utility), notificaciones automatizadas y envíos masivos.
 
 ---
