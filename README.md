@@ -1,4 +1,4 @@
-# ¡Hola! Soy Arnold Medina 👋
+# ¡Hola! Soy Arnold Medina 
 
 Soy desarrollador de software, radicado en San Luis Potosí, 🇲🇽. Me apasiona construir aplicaciones web y moviles que resuelven problemas del mundo real **desde 2019**.. 
 
@@ -10,7 +10,7 @@ Mi experiencia principal incluye:
 
 
 
-### 🛠️ Tecnologías y Herramientas
+# Tecnologías y Herramientas
 
 **Backend:**
 * **PHP & Laravel:** Desarrollo de APIs, Eloquent ORM, Blade, Scheduled Tasks (Cron Jobs).
@@ -28,7 +28,7 @@ Mi experiencia principal incluye:
 
 ---
 
-### 🌱 Lo que estoy haciendo actualmente
+###  Lo que estoy haciendo actualmente
 *Sistema gestion hospitalario..
 * Desarrollando e implementando sistemas de automatización de recordatorios y feedback para pacientes vía WhatsApp.
 * Optimizando procesos de bases de datos y tareas programadas en servidores (Cron Jobs) para plataformas de gestión médica.
@@ -36,7 +36,7 @@ Mi experiencia principal incluye:
 .
 ---
 
-### 🚀 Sobre mí
+###  Sobre mí
 * 💬 Pregúntame sobre: **Laravel, integración de WhatsApp con Twilio, Java, Kotlin o estructuración de bases de datos.**
 
 
