@@ -1,4 +1,3 @@
-# ¡Hola! Soy Arnold Medina 
 
 Soy desarrollador de software, radicado en San Luis Potosí, 🇲🇽. Me apasiona construir aplicaciones web y moviles que resuelven problemas del mundo real **desde 2019**.. 
 
