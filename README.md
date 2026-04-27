@@ -9,7 +9,7 @@ Mi experiencia principal incluye:
 
 
 
-# Tecnologías y Herramientas
+# Tecnologías
 
 **Backend:**
 * **PHP & Laravel:** Desarrollo de APIs, Eloquent ORM, Blade, Scheduled Tasks (Cron Jobs).
