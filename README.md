@@ -7,8 +7,6 @@ Mi experiencia principal incluye:
 * Automatización de procesos y paneles de administración.
 * Construcción de sistemas RFID para el tracking de objetos físicos.
 
-
-
 # Tecnologías
 
 **Backend:**
