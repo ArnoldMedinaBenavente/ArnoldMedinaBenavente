@@ -1,5 +1,5 @@
 
-Soy desarrollador de software, radicado en San Luis Potosí, 🇲🇽. Me apasiona construir aplicaciones web y moviles que resuelven problemas del mundo real **desde 2019**.. 
+Soy desarrollador de software, radicado en San Luis Potosí, 🇲🇽. Me apasiona construir aplicaciones web y moviles  **desde 2019**.. 
 
 Mi experiencia principal incluye:
 
