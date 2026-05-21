@@ -1,7 +1,6 @@
-
 Soy desarrollador de software, radicado en San Luis Potosí, 🇲🇽. Me apasiona construir aplicaciones web y moviles  **desde 2019**.. 
 
-Mi experiencia principal incluye:
+Mi experiencia:
 
 * Plataformas de salud y gestion pacientes, insumos, notas médicas (ECE), cuentas ($).
 * Automatización de procesos y paneles de administración.
@@ -28,13 +27,7 @@ Mi experiencia principal incluye:
 * Desarrollando e implementando sistemas de automatización de recordatorios y feedback para pacientes vía WhatsApp.
 * Optimizando procesos de bases de datos y tareas programadas en servidores (Cron Jobs) para plataformas de gestión médica.
 * Aplicación  movil registro de avance de trabajos, con evidencias fotograficas y comentarios
-.
----
-
+  
 ###  Sobre mí
 * 💬 Pregúntame sobre: **Laravel, integración de WhatsApp con Twilio, Java, Kotlin o estructuración de bases de datos.**
-
-
----
-
-### 📫 ¿Cómo contactarme? arnold215704@gmail.com
+### ¿Cómo contactarme? arnold215704@gmail.com
