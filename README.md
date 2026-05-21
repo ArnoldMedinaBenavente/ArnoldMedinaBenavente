@@ -1,6 +1,6 @@
 Soy desarrollador de software, radicado en San Luis Potosí, 🇲🇽. Me apasiona construir aplicaciones web y moviles  **desde 2019**.. 
 
-Mi experiencia:
+Experiencia:
 
 * Plataformas de salud y gestion pacientes, insumos, notas médicas (ECE), cuentas ($).
 * Automatización de procesos y paneles de administración.
