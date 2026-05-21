@@ -23,8 +23,6 @@ Mi experiencia principal incluye:
 * **Integraciones & APIs:**
 * **Twilio / WhatsApp Business API:** Creación de plantillas (Utility), notificaciones automatizadas y envíos masivos.
 
----
-
 ###  Lo que estoy haciendo actualmente
 *Sistema gestion hospitalario..
 * Desarrollando e implementando sistemas de automatización de recordatorios y feedback para pacientes vía WhatsApp.
