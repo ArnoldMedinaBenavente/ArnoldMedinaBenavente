@@ -1,18 +1,14 @@
 
 # ¡Hola! Soy Arnold Medina 
 
-###  Ingeniero de Software 
+##  Proyectos 
 
-📍 San Luis Potosí, México 🇲🇽
-
-
-##  Proyectos destacados
-
-### 🌱 Grova — Organiza. Avanza. Crece.
+###  Grova — Organiza. Avanza. Crece.
 
 **Aplicación Android de productividad y finanzas personales.**
 
 Grova es un proyecto personal que busca integrar la organización del tiempo, el seguimiento de objetivos y el control financiero en una sola aplicación.
+Actualmente esta en etapa de pruebas interna, si quieres apoyar en estas pruebas,   mándame mail a **Correo:** [arnold215704@gmail.com](mailto:arnold215704@gmail.com)
 
 **Funcionalidades principales:**
 
@@ -69,7 +65,7 @@ Java · Android Studio · Laravel · MySQL
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+##  Tecnologías 
 
 ### Backend
 - PHP / Laravel
@@ -117,15 +113,15 @@ Java · Android Studio · Laravel · MySQL
 
 ## 🔨 Actualmente estoy trabajando en
 
-- 🌱 **Grova:** desarrollo y lanzamiento de mi aplicación Android de productividad y finanzas personales.
-- 🏥 **Gestión hospitalaria:** mejora de plataformas para administración de pacientes, procesos clínicos y financieros.
-- 🤖 **Automatización:** implementación de recordatorios y seguimiento de pacientes mediante WhatsApp.
-- ⚡ **Optimización:** mejora de rendimiento de bases de datos y servidores Linux.
-- 📱 **Aplicaciones móviles:** desarrollo de soluciones Android para operaciones.
+-  **Grova:** desarrollo y lanzamiento de mi aplicación Android de productividad y finanzas personales.
+-  **Gestión hospitalaria:** mejora de plataformas para administración de pacientes, procesos clínicos y financieros.
+-  **Automatización:** implementación de recordatorios y seguimiento de pacientes mediante WhatsApp.
+-  **Optimización:** mejora de rendimiento de bases de datos y servidores Linux.
+-  **Aplicaciones móviles:** desarrollo de soluciones Android para operaciones.
 
 ---
 
-## 🎯 Mis intereses
+##  Mis intereses
 
 - Desarrollo de software y arquitectura de sistemas.
 - Aplicaciones móviles Android.
@@ -135,14 +131,5 @@ Java · Android Studio · Laravel · MySQL
 - Optimización de bases de datos.
 - Desarrollo de productos digitales.
 
-
-
-##  Contacto
-
-San Luis Potosí, México
-
- **Correo:** [arnold215704@gmail.com](mailto:arnold215704@gmail.com)
-
- Puedes contactarme para conversar sobre Laravel, Android, Kotlin, Java, automatización o integración de sistemas.
 
 
