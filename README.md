@@ -7,5 +7,7 @@
 -  **Optimización:** mejora de rendimiento de bases de datos y servidores Linux.
 -  **Aplicaciones móviles:** desarrollo de soluciones Android para operaciones.
 
+-  Email: arnold215704@gmail.com
+
 
 
